@@ -1,2 +1,0 @@
-# SkillFactory_DS
-SkillFactory_dataScience
